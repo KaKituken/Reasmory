@@ -1,0 +1,902 @@
+[
+  {
+    "problem_id": 45,
+    "problem": "What direction are the people in the background moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. left",
+      "B. not moving",
+      "C. away from the camera",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/bmx-rider.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/bmx-rider.mp4"
+  },
+  {
+    "problem_id": 47,
+    "problem": "From the camera perspective, what direction is the person moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. there are no people in the video",
+      "B. left",
+      "C. right",
+      "D. not moving"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/bmx-trees.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/bmx-trees.mp4"
+  },
+  {
+    "problem_id": 72,
+    "problem": "How many full revolutions does the dancer spin counter-clockwise?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 4",
+      "D. 0"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/breakdance-flare.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/breakdance-flare.mp4"
+  },
+  {
+    "problem_id": 74,
+    "problem": "How many times does the dancer touch the ground with his left hand from his perspective?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 5",
+      "B. 1",
+      "C. 3",
+      "D. 0"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/breakdance-flare.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/breakdance-flare.mp4"
+  },
+  {
+    "problem_id": 81,
+    "problem": "Is the bear moving forwards or backwards from its own perspective?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. backwards",
+      "B. there are no bears in the video",
+      "C. forwards",
+      "D. not moving"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/burnout.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/burnout.mp4"
+  },
+  {
+    "problem_id": 82,
+    "problem": "From the camera perspective, what direction is the bus moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. not moving",
+      "B. right",
+      "C. left",
+      "D. away from the camera"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/bus.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/bus.mp4"
+  },
+  {
+    "problem_id": 104,
+    "problem": "How many full revolutions does the carousel complete?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 0",
+      "B. 2",
+      "C. 1",
+      "D. 3"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/carousel.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/carousel.mp4"
+  },
+  {
+    "problem_id": 128,
+    "problem": "Is the cat turning to the left or right from the camera perspective?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. left",
+      "B. towards",
+      "C. right",
+      "D. not moving"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/cat.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/cat.mp4"
+  },
+  {
+    "problem_id": 167,
+    "problem": "Which direction is the crowd moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. not moving",
+      "B. left",
+      "C. right",
+      "D. moving straight and not turning"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/classic-car.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/classic-car.mp4"
+  },
+  {
+    "problem_id": 176,
+    "problem": "Which direction are the people on the zebra stripes walking towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. neither",
+      "B. away from the camera",
+      "C. left",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/crossing.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/crossing.mp4"
+  },
+  {
+    "problem_id": 197,
+    "problem": "How many deer are moving forwards from their own perspective?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. 1",
+      "D. 0"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/deer.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/deer.mp4"
+  },
+  {
+    "problem_id": 215,
+    "problem": "From the camera perspective, what direction is the dog moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. away",
+      "B. towards",
+      "C. right",
+      "D. left"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/dog-agility.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/dog-agility.mp4"
+  },
+  {
+    "problem_id": 234,
+    "problem": "What direction is the dog on the scale moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. right",
+      "B. towards",
+      "C. staying in place",
+      "D. away"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/dogs-scale.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/dogs-scale.mp4"
+  },
+  {
+    "problem_id": 239,
+    "problem": "From the camera perspective, what direction are the dolphins moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. towards",
+      "B. left",
+      "C. right",
+      "D. away"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/dolphins.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/dolphins.mp4"
+  },
+  {
+    "problem_id": 271,
+    "problem": "Is the bike moving clockwise or counter-clockwise?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. counter-clockwise",
+      "B. not moving",
+      "C. towards",
+      "D. clockwise"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/e-bike.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/e-bike.mp4"
+  },
+  {
+    "problem_id": 274,
+    "problem": "What direction are the trees moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. left",
+      "B. right",
+      "C. not moving",
+      "D. going further away"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/elephant.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/elephant.mp4"
+  },
+  {
+    "problem_id": 285,
+    "problem": "Is the skier coming closer or moving further away?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. going further away",
+      "B. not sure",
+      "C. coming closer",
+      "D. left"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/giant-slalom.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/giant-slalom.mp4"
+  },
+  {
+    "problem_id": 297,
+    "problem": "Is the goat moving towards or away from the camera?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. left",
+      "B. away",
+      "C. right",
+      "D. towards"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/goat.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/goat.mp4"
+  },
+  {
+    "problem_id": 301,
+    "problem": "What direction is the person driving towards at the end of the video?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. left",
+      "B. towards the camera",
+      "C. away",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/golf.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/golf.mp4"
+  },
+  {
+    "problem_id": 364,
+    "problem": "From the camera perspective, what direction is the bus moving?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. not moving",
+      "B. there are no buses in the video",
+      "C. left",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/jet-ski.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/jet-ski.mp4"
+  },
+  {
+    "problem_id": 371,
+    "problem": "How many people are moving to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. 1",
+      "D. 4"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/juggle.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/juggle.mp4"
+  },
+  {
+    "problem_id": 374,
+    "problem": "What direction is the dog moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. not moving",
+      "B. no dog there",
+      "C. left",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/juggle.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/juggle.mp4"
+  },
+  {
+    "problem_id": 380,
+    "problem": "How many go-karts are going further away?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 2",
+      "D. 0"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/kart-turn.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/kart-turn.mp4"
+  },
+  {
+    "problem_id": 388,
+    "problem": "How many keepy ups did the boy complete with his right foot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 2",
+      "D. 0"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/kid-football.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/kid-football.mp4"
+  },
+  {
+    "problem_id": 390,
+    "problem": "What direction is the boy slightly moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. up",
+      "B. right",
+      "C. left",
+      "D. down"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/kid-football.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/kid-football.mp4"
+  },
+  {
+    "problem_id": 465,
+    "problem": "In which direction is the motorbike turning towards from its own perspective?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. moving straight and not turning",
+      "B. left",
+      "C. right",
+      "D. there are no motorbikes in the video"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/man-bike.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/man-bike.mp4"
+  },
+  {
+    "problem_id": 471,
+    "problem": "Are the marbles moving uphill or downhill",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. uphill",
+      "B. there are no marbles in the video",
+      "C. not moving",
+      "D. downhill"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/marbles.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/marbles.mp4"
+  },
+  {
+    "problem_id": 550,
+    "problem": "What direction are the buildings moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. away from the camera",
+      "B. right",
+      "C. left",
+      "D. not moving"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/paragliding.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/paragliding.mp4"
+  },
+  {
+    "problem_id": 566,
+    "problem": "How many people are moving away from the camera?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 0",
+      "B. 7",
+      "C. 1",
+      "D. 4"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/people-sunset.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/people-sunset.mp4"
+  },
+  {
+    "problem_id": 592,
+    "problem": "Are the robots moving towards or away from the camera?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. not moving",
+      "B. towards the camera",
+      "C. away from the camera",
+      "D. there are no robots in the video"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/robot-battle.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/robot-battle.mp4"
+  },
+  {
+    "problem_id": 619,
+    "problem": "How many people are walking to the right?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 0",
+      "D. 1"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/schoolgirls.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/schoolgirls.mp4"
+  },
+  {
+    "problem_id": 624,
+    "problem": "Is the scooter coming closer or moving further away?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. there are no scooters in the video",
+      "B. going further away",
+      "C. not moving",
+      "D. coming closer"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/scooter-black.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/scooter-black.mp4"
+  },
+  {
+    "problem_id": 634,
+    "problem": "What direction is the dolphin moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. there are no dolphins in the video",
+      "B. towards the camera",
+      "C. left",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/seasnake.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/seasnake.mp4"
+  },
+  {
+    "problem_id": 644,
+    "problem": "Which way is the person turning towards from the camera perspective?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. right",
+      "B. not moving",
+      "C. left",
+      "D. moving straight and not turning"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/shooting.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/shooting.mp4"
+  },
+  {
+    "problem_id": 651,
+    "problem": "What direction is the person with the neon green t-shirt moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. left",
+      "B. right",
+      "C. uphill",
+      "D. not moving"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/skate-park.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/skate-park.mp4"
+  },
+  {
+    "problem_id": 664,
+    "problem": "How many clockwise flips did the person do?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 2",
+      "D. 0"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/slackline.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/slackline.mp4"
+  },
+  {
+    "problem_id": 678,
+    "problem": "Is the snowboarder moving uphill or downhill?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. not moving",
+      "B. uphill",
+      "C. neither",
+      "D. downhill"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/snowboard-sand.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/snowboard-sand.mp4"
+  },
+  {
+    "problem_id": 687,
+    "problem": "Is the ball spinning clockwise or counter-clockwise?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. there are no balls in the video",
+      "B. clockwise",
+      "C. not spinning",
+      "D. counter-clockwise"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/soccerball.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/soccerball.mp4"
+  },
+  {
+    "problem_id": 700,
+    "problem": "How many people on the subway platform are walking to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 8",
+      "B. 0",
+      "C. 1",
+      "D. 4"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/subway.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/subway.mp4"
+  },
+  {
+    "problem_id": 719,
+    "problem": "Is the person spinning clockwise or counter-clockwise?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. counter-clockwise",
+      "B. there are no people in the video",
+      "C. not spinning",
+      "D. clockwise"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/swing-boy.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/swing-boy.mp4"
+  },
+  {
+    "problem_id": 722,
+    "problem": "How many times was the ping pong ball hit towards the player with the black t-shirt?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 3",
+      "D. 5"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/table-tennis.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/table-tennis.mp4"
+  },
+  {
+    "problem_id": 748,
+    "problem": "Is the tractor moving towards or away from the camera?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. towards the camera",
+      "B. away from the camera",
+      "C. there are no tractors in the video",
+      "D. not moving"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/tractor-sand.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/tractor-sand.mp4"
+  },
+  {
+    "problem_id": 792,
+    "problem": "What direction is the woman wearing blue pants moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. left",
+      "B. downhill",
+      "C. right",
+      "D. not moving"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/davis/weightlifting.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/davis/weightlifting.mp4"
+  },
+  {
+    "problem_id": 827,
+    "problem": "What direction is the yacht turning from its own perspective?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. no yacht there",
+      "B. not turning",
+      "C. left",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/youtube-vos/youtube020.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/youtube-vos/youtube020.mp4"
+  },
+  {
+    "problem_id": 850,
+    "problem": "What direction is the red panda moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. not moving",
+      "B. further away from camera",
+      "C. closer towards the camera",
+      "D. no red panda there"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/youtube-vos/youtube038.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/youtube-vos/youtube038.mp4"
+  },
+  {
+    "problem_id": 855,
+    "problem": "What direction is the man who is skiing moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. closer towards the camera",
+      "B. no skiing man there",
+      "C. not moving",
+      "D. further away from camera"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/youtube-vos/youtube042.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/youtube-vos/youtube042.mp4"
+  },
+  {
+    "problem_id": 876,
+    "problem": "What direction are the cars moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. up",
+      "B. left",
+      "C. not moving",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/youtube-vos/youtube058.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/youtube-vos/youtube058.mp4"
+  },
+  {
+    "problem_id": 883,
+    "problem": "What direction is the kangaroo moving towards?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. further away from camera",
+      "B. down",
+      "C. closer towards the camera",
+      "D. not moving"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/youtube-vos/youtube064.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/youtube-vos/youtube064.mp4"
+  },
+  {
+    "problem_id": 888,
+    "problem": "What direction did the motorcycle turned from its own perspective?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. no turn",
+      "B. down",
+      "C. left",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/youtube-vos/youtube068.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/youtube-vos/youtube068.mp4"
+  },
+  {
+    "problem_id": 907,
+    "problem": "Are the cars turning to the left or right from their own perspectives?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_allo",
+    "options": [
+      "A. left",
+      "B. right",
+      "C. not moving",
+      "D. moving straight and not turning"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/youtube-vos/youtube078.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/youtube-vos/youtube078.mp4"
+  }
+]

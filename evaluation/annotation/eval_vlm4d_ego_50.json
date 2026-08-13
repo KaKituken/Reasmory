@@ -1,0 +1,902 @@
+[
+  {
+    "problem_id": 926,
+    "problem": "Which direction did the artist turn to face the canvas from the desk?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. left",
+      "B. backward",
+      "C. right",
+      "D. straight"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_001.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_001.mp4"
+  },
+  {
+    "problem_id": 935,
+    "problem": "Does the person turn to enter the kitchen?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. maybe",
+      "B. yes",
+      "C. possibly",
+      "D. no"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_004.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_004.mp4"
+  },
+  {
+    "problem_id": 936,
+    "problem": "Which way does the person turn to enter the kitchen?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. straight",
+      "B. right",
+      "C. backward",
+      "D. left"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_004.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_004.mp4"
+  },
+  {
+    "problem_id": 938,
+    "problem": "To pour the batter, which direction with respect to the container does the person move the laddle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. Left",
+      "B. Backward",
+      "C. Right",
+      "D. Forward"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_006.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_006.mp4"
+  },
+  {
+    "problem_id": 939,
+    "problem": "How many spoons of batter are poured when moving to the right of the container?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 1",
+      "D. 2"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_006.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_006.mp4"
+  },
+  {
+    "problem_id": 967,
+    "problem": "Does the person move closer to the oven throughout the video?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. Possibly",
+      "B. Yes",
+      "C. Not sure",
+      "D. No"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_019.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_019.mp4"
+  },
+  {
+    "problem_id": 970,
+    "problem": "In which direction does the oil bottle move?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. right",
+      "B. left",
+      "C. not moving",
+      "D. down"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_020.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_020.mp4"
+  },
+  {
+    "problem_id": 972,
+    "problem": "In what direction does the person move the bag of flour towards the end of the video?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. away",
+      "B. towards",
+      "C. sideways",
+      "D. upward"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_022.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_022.mp4"
+  },
+  {
+    "problem_id": 975,
+    "problem": "How does he swap his left and right hands to hold the spatula",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. From left to right",
+      "B. From right to left",
+      "C. He doesn't hold a spatula",
+      "D. he uses only one hand"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_024.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_024.mp4"
+  },
+  {
+    "problem_id": 980,
+    "problem": "In which direction did the person swipe on his phone?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. Left",
+      "B. Right",
+      "C. Down",
+      "D. Up"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_028.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_028.mp4"
+  },
+  {
+    "problem_id": 994,
+    "problem": "In what direction does the spoon rotate to pour the powder into the bowl?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. left",
+      "B. right",
+      "C. downward",
+      "D. upward"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_034.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_034.mp4"
+  },
+  {
+    "problem_id": 1002,
+    "problem": "Which direction was the stack where he took a book from with his left hand?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. up",
+      "B. right",
+      "C. left",
+      "D. down"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_039.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_039.mp4"
+  },
+  {
+    "problem_id": 1004,
+    "problem": "In which direction does he place the book with respect to him?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. In front",
+      "B. To the left",
+      "C. To the right",
+      "D. Behind"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_041.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_041.mp4"
+  },
+  {
+    "problem_id": 1024,
+    "problem": "Does he pan his head right or left more than once?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. He pans his head only once",
+      "B. No",
+      "C. Yes",
+      "D. He does not pan his head at all"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_050.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_050.mp4"
+  },
+  {
+    "problem_id": 1033,
+    "problem": "How many white pieces did the right-most player put down and with which hand?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. 2 with the right hand",
+      "B. 1 with the right hand",
+      "C. 3 with the left hand",
+      "D. 1 with the left hand"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_055.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_055.mp4"
+  },
+  {
+    "problem_id": 1034,
+    "problem": "Which direction is the person who clapped sitting?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. forward",
+      "B. left",
+      "C. backward",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_055.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_055.mp4"
+  },
+  {
+    "problem_id": 1035,
+    "problem": "In what direction did the person with the white pieces move the pawn with respect to the board?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. right",
+      "B. backwards",
+      "C. left",
+      "D. forwards"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_056.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_056.mp4"
+  },
+  {
+    "problem_id": 1037,
+    "problem": "Which color pawn made the first move?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. Red",
+      "B. Not enough information in the scene to answer",
+      "C. White",
+      "D. Black"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_056.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_056.mp4"
+  },
+  {
+    "problem_id": 1042,
+    "problem": "What thing in the scene is moving in the same direction as the cyclist?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. The skateboarder",
+      "B. The bird",
+      "C. Nothing",
+      "D. The car"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_059.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_059.mp4"
+  },
+  {
+    "problem_id": 1048,
+    "problem": "What object is moving to the left in the scene?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. A car. ",
+      "B. A bus",
+      "C. A pedestrian",
+      "D. A bicycle"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_060.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_060.mp4"
+  },
+  {
+    "problem_id": 1063,
+    "problem": "How does the person move the orange lid container after using it?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. places it to the right",
+      "B. places it on the left",
+      "C. puts it in a drawer",
+      "D. leaves it on the table"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_067.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_067.mp4"
+  },
+  {
+    "problem_id": 1065,
+    "problem": "Which way does the person turn to open the fridge?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. left",
+      "B. up",
+      "C. right",
+      "D. down"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_068.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_068.mp4"
+  },
+  {
+    "problem_id": 1095,
+    "problem": "In which direction is the person moving with respect to the dart board?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. right",
+      "B. left",
+      "C. coming toward",
+      "D. going away"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_090.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_090.mp4"
+  },
+  {
+    "problem_id": 1097,
+    "problem": "Which rotational direction does the person move to look at the fridge?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. upwards",
+      "B. clockwise",
+      "C. counter-clockwise",
+      "D. downwards"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_091.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_091.mp4"
+  },
+  {
+    "problem_id": 1099,
+    "problem": "In what direction is the bottle moving from the camera's perspective?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. Towards the camera",
+      "B. Away from the camera",
+      "C. Right",
+      "D. Left"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_092.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_092.mp4"
+  },
+  {
+    "problem_id": 1106,
+    "problem": "From the cashier's perspective, to which hand did the cashier transfer the coins and bills taken out of the register?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. to the customer's hand",
+      "B. to their left hand",
+      "C. to their pocket",
+      "D. to their right hand"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_093.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_093.mp4"
+  },
+  {
+    "problem_id": 1117,
+    "problem": "Which hand is the person holding the garment with?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. right hand",
+      "B. left hand",
+      "C. both hands",
+      "D. no hands"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_101.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_101.mp4"
+  },
+  {
+    "problem_id": 1137,
+    "problem": "Is the artist drawing petals in a circle clockwise or anticlockwise?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. Clockwise",
+      "B. Anticlockwise",
+      "C. Alternating directions",
+      "D. Randomly"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_117.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_117.mp4"
+  },
+  {
+    "problem_id": 1139,
+    "problem": "From which side of the object did the worker apply tape to?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. From the top side",
+      "B. No tape used.",
+      "C. From the left side",
+      "D. From the right side"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_119.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_119.mp4"
+  },
+  {
+    "problem_id": 1152,
+    "problem": "Does the basketball hit the backboard?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. It's unclear",
+      "B. Yes",
+      "C. No",
+      "D. There is no basketball"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_129.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_129.mp4"
+  },
+  {
+    "problem_id": 1181,
+    "problem": "In what direction did the egg move relative to the cook when it was being held?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. Right",
+      "B. Up",
+      "C. Down",
+      "D. Left"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_147.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_147.mp4"
+  },
+  {
+    "problem_id": 1202,
+    "problem": "How many of the dough balls were placed to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. 0",
+      "D. 1"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_160.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_160.mp4"
+  },
+  {
+    "problem_id": 1210,
+    "problem": "Which way does the person move the bowl to rinse it?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. up",
+      "B. sideways",
+      "C. not enough information in the scene to answer",
+      "D. down"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_164.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_164.mp4"
+  },
+  {
+    "problem_id": 1224,
+    "problem": "Which rotational direction does the person turn to get the greens?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. around the other way",
+      "B. towards the right",
+      "C. clockwise",
+      "D. anti-clockwise"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_176.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_176.mp4"
+  },
+  {
+    "problem_id": 1225,
+    "problem": "With respect to the bowl of greens, how does the person move the pot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. closer",
+      "B. to the side",
+      "C. not at all",
+      "D. further away"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_177.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_177.mp4"
+  },
+  {
+    "problem_id": 1231,
+    "problem": "What is happening to the distance between the truck and the camera?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. staying the same",
+      "B. increasing",
+      "C. decreasing",
+      "D. fluctuating"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_180.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_180.mp4"
+  },
+  {
+    "problem_id": 1250,
+    "problem": "Which rotational direction does the person turn to go to the table?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. towards the right",
+      "B. anti-clockwise",
+      "C. spins around",
+      "D. clockwise"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_194.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_194.mp4"
+  },
+  {
+    "problem_id": 1255,
+    "problem": "Where is the butter pack placed with respect to the tissue roll?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. to the right",
+      "B. behind",
+      "C. to the left",
+      "D. in front"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_196.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_196.mp4"
+  },
+  {
+    "problem_id": 1269,
+    "problem": "How many leaves were plucked while pulling to the right?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. 0",
+      "B. 10",
+      "C. 3",
+      "D. 5"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_208.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_208.mp4"
+  },
+  {
+    "problem_id": 1280,
+    "problem": "Which direction does the grater move after being picked up?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. to the right",
+      "B. upwards",
+      "C. doesn’t move",
+      "D. to the left"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_219.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_219.mp4"
+  },
+  {
+    "problem_id": 1282,
+    "problem": "Which direction does the person go in to go from the sink to the stove?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. straight",
+      "B. backward",
+      "C. right",
+      "D. left"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_221.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_221.mp4"
+  },
+  {
+    "problem_id": 1289,
+    "problem": "Which direction is the cloth being moved?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. up",
+      "B. left",
+      "C. down",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_226.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_226.mp4"
+  },
+  {
+    "problem_id": 1300,
+    "problem": "Which direction are the forks moved after rinsing?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. down",
+      "B. left",
+      "C. up",
+      "D. right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_236.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_236.mp4"
+  },
+  {
+    "problem_id": 1302,
+    "problem": "Which direction is the bowl moved after rinsing?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. right",
+      "B. left",
+      "C. backward",
+      "D. forward"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_238.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_238.mp4"
+  },
+  {
+    "problem_id": 1311,
+    "problem": "Which direction does the salt container move?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. right",
+      "B. down",
+      "C. up",
+      "D. left"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_246.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_246.mp4"
+  },
+  {
+    "problem_id": 1313,
+    "problem": "How many spoonfuls of powder did the person pour to the right?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. 4",
+      "D. 1"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_248.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_248.mp4"
+  },
+  {
+    "problem_id": 1335,
+    "problem": "Which direction did the person go in to go back to the cutting board?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. left",
+      "B. below",
+      "C. right",
+      "D. above"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_268.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_268.mp4"
+  },
+  {
+    "problem_id": 1337,
+    "problem": "Which direction did the person go to get the spoon?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. below",
+      "B. right",
+      "C. above",
+      "D. left"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_270.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_270.mp4"
+  },
+  {
+    "problem_id": 1356,
+    "problem": "Which direction does the chair move longitudinally?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. right",
+      "B. down",
+      "C. left",
+      "D. up"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_286.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_286.mp4"
+  },
+  {
+    "problem_id": 1368,
+    "problem": "Respective to the cutting board, where was the bottle placed after pouring?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "original_question_type": "vlm4d_ego",
+    "options": [
+      "A. behind",
+      "B. below",
+      "C. right",
+      "D. above"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "/ssd3/jxhe_cache/VLM4D/videos_real/ego4d/clip_297.mp4",
+    "data_source": "vlm4d",
+    "source_url": "https://huggingface.co/datasets/shijiezhou/VLM4D/resolve/main/videos_real/ego4d/clip_297.mp4"
+  }
+]

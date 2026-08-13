@@ -1,0 +1,25 @@
+# Core runtime for the spatial-reasoning pipeline and evaluation harness.
+torch==2.6.0
+torchvision
+transformers>=4.51
+accelerate
+qwen-agent
+qwen-vl-utils
+
+# Geometry, imaging and plotting
+numpy
+scipy
+opencv-python
+pillow
+matplotlib
+trimesh
+
+# Parallel evaluation and I/O
+ray
+tqdm
+requests
+
+# External components installed separately (not on PyPI):
+#   Pi3 / Pi3x  - static scene reconstruction
+#   Flow3R      - dynamic video reconstruction (isolated environment)
+#   SAM3        - open-vocabulary segmentation used for object grounding

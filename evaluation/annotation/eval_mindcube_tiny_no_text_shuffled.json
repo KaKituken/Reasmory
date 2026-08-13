@@ -1,0 +1,3028 @@
+[
+  {
+    "problem_id": 2,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 4, then I turn right and move forward, will I get closer to the pink plush toy and headboard?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0002_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0002_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0002_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0002_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 5,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, what is behind me?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Door",
+      "B. Lectern",
+      "C. White board",
+      "D. Classroom seating area"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0005_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0005_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0005_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0005_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 15,
+    "problem": "If I was positioned where the black shoe is and facing the same direction, what would be to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. TV",
+      "B. Light purple sofa",
+      "C. Brown curtains and windows",
+      "D. Wooden dining table"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0015_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0015_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0015_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0015_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 24,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 4, what is behind me?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Lighted area and railing",
+      "B. White headboard",
+      "C. Wall",
+      "D. Blue doraemon pattern bed sheet"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0024_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0024_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0024_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0024_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 27,
+    "problem": "From the viewpoint presented in image 1, what is to the left of the blue table?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Sofa",
+      "B. Plain white wall",
+      "C. Wall with an air conditioning unit",
+      "D. Seating bench"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0027_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0027_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0027_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0027_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 48,
+    "problem": "From the viewpoint presented in image 4, what is to the right of the drink bottle?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Black chair",
+      "B. Window with fencing",
+      "C. Wall",
+      "D. Boxes and bottles"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0048_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0048_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0048_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0048_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 50,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly right",
+      "B. Diagonally forward and left",
+      "C. Diagonally forward and right",
+      "D. Directly left"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0050_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0050_img_2.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 57,
+    "problem": "From the viewpoint presented in image 4, what is to the right of the drink bottle?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Wooden sofa",
+      "B. Table with chairs",
+      "C. White walls and windows",
+      "D. Bicycle and TV"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0057_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0057_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0057_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0057_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 83,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, what is behind me?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Black chairs",
+      "B. White board and black chairs",
+      "C. Glass wall and black chairs",
+      "D. Wall"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0083_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0083_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0083_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0083_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 115,
+    "problem": "From the viewpoint presented in image 1, what is to the right of the toy train?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Printed glass door",
+      "B. Window",
+      "C. Wall",
+      "D. Black table"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0115_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0115_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0115_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0115_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 116,
+    "problem": "From the viewpoint presented in image 1, what is to the left of the green facial cleanser?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Table with cups on it",
+      "B. White headboard",
+      "C. Clothes rack and black pants",
+      "D. Bed sheet with a floral pattern"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0116_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0116_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0116_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0116_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 134,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, what is behind me?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Glass door",
+      "B. TV",
+      "C. Gridded glass wall",
+      "D. Glass wall"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0134_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0134_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0134_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0134_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 148,
+    "problem": "From the viewpoint presented in image 1, what is to the left of the drink bottle?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Black chair",
+      "B. Boxes and bottles",
+      "C. Window with fencing",
+      "D. Wall"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0148_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0148_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0148_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0148_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 171,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn right and move forward, will I get closer to the curtain?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0171_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0171_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0171_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0171_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 186,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn left and move forward, will I get closer to the boxes and bottles?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0186_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0186_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0186_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0186_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 187,
+    "problem": "From the viewpoint presented in image 2, what is to the left of the black chair with pillows?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Two single sofas",
+      "B. TV",
+      "C. Leather loveseat",
+      "D. Leather loveseat with three seat cushions"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0187_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0187_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0187_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0187_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 195,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn right and move forward, will I get closer to the white board?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0195_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0195_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0195_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0195_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 227,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly left",
+      "B. Diagonally forward and left",
+      "C. Diagonally forward and right",
+      "D. Directly right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0227_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0227_img_2.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 229,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn left and move forward, will I get closer to the lectern?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0229_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0229_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0229_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0229_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 240,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn left and move forward, will I get closer to the table and white chair?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0240_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0240_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0240_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0240_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 251,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and left",
+      "B. Directly left",
+      "C. Directly right",
+      "D. Diagonally forward and right"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0251_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0251_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 256,
+    "problem": "From the viewpoint presented in image 1, what is to the left of the drink bottle?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Gate",
+      "B. Decorated wall",
+      "C. Light brown wall",
+      "D. Stone fountain"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0256_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0256_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0256_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0256_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 267,
+    "problem": "From the viewpoint presented in image 1, what is to the left of the white thermos?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Bed sheet with a floral pattern",
+      "B. Table with cups on it",
+      "C. White headboard",
+      "D. Clothes rack and black pants"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0267_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0267_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0267_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0267_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 275,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn left and move forward, will I get closer to the printed glass door?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0275_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0275_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0275_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0275_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 284,
+    "problem": "From the viewpoint presented in image 4, what is to the left of the toy train?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Wall",
+      "B. Black table",
+      "C. Window",
+      "D. Printed glass door"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0284_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0284_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0284_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0284_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 307,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and right",
+      "B. Directly left",
+      "C. Directly right",
+      "D. Diagonally forward and left"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0307_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0307_img_2.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 311,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and right",
+      "B. Diagonally forward and left",
+      "C. Directly right",
+      "D. Directly left"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0311_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0311_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 328,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn right and move forward, will I get closer to the white wall?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0328_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0328_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0328_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0328_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 333,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, what is behind me?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Boxes and bottles",
+      "B. Wall",
+      "C. Black chair",
+      "D. Window with fencing"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0333_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0333_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0333_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0333_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 338,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 4, what is behind me?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Window",
+      "B. Glass wall",
+      "C. Black sofa",
+      "D. Brown chair and table"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0338_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0338_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0338_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0338_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 357,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and right",
+      "B. Directly right",
+      "C. Diagonally forward and left",
+      "D. Directly left"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0357_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0357_img_2.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 378,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and left",
+      "B. Directly right",
+      "C. Diagonally forward and right",
+      "D. Directly left"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0378_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0378_img_2.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 380,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly right",
+      "B. Diagonally forward and left",
+      "C. Diagonally forward and right",
+      "D. Directly left"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0380_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0380_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 402,
+    "problem": "From the viewpoint presented in image 1, what is to the left of the blue ball?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Window",
+      "B. Smoking machine",
+      "C. Cardboard-covered sliding door",
+      "D. Wall"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0402_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0402_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0402_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0402_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 429,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly right",
+      "B. Diagonally forward and left",
+      "C. Directly left",
+      "D. Diagonally forward and right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0429_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0429_img_2.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 430,
+    "problem": "From the viewpoint presented in image 2, what is to the right of the blue table?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Seating bench",
+      "B. Wall with an air conditioning unit",
+      "C. Plain white wall",
+      "D. Sofa"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0430_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0430_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0430_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0430_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 436,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, what is behind me?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Window and blue curtain",
+      "B. White wall",
+      "C. Closet and door",
+      "D. Pink plush toy and headboard"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0436_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0436_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0436_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0436_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 438,
+    "problem": "From the viewpoint presented in image 2, what is to the right of the pink ball?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. School bag and TV cabinet",
+      "B. White-red cabinet",
+      "C. Dark brown sofa",
+      "D. Light-colored sofa"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0438_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0438_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0438_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0438_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 444,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn left and move forward, will I get closer to the white board?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0444_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0444_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0444_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0444_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 448,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn left and move forward, will I get closer to the pink plush toy and headboard?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0448_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0448_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0448_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0448_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 451,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly right",
+      "B. Diagonally forward and left",
+      "C. Directly left",
+      "D. Diagonally forward and right"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0451_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0451_img_2.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 469,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly left",
+      "B. Diagonally forward and left",
+      "C. Diagonally forward and right",
+      "D. Directly right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0469_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0469_img_2.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 493,
+    "problem": "If I was positioned where the black chair is and facing the same direction, would I be able to see the office area?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0493_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0493_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0493_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0493_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 495,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn right and move forward, will I get closer to the walkway between table and trash bins?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0495_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0495_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0495_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0495_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 514,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly left",
+      "B. Directly right",
+      "C. Diagonally forward and right",
+      "D. Diagonally forward and left"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0514_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0514_img_2.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 523,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn right and move forward, will I get closer to the wall?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0523_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0523_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0523_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0523_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 540,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 4, then I turn right and move forward, will I get closer to the gate?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0540_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0540_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0540_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0540_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 547,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 4, then I turn right and move forward, will I get closer to the seating bench?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0547_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0547_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0547_img_3.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0547_img_4.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 571,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, what is behind me?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Printed glass door",
+      "B. Wall",
+      "C. Window",
+      "D. Lots of toys"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0571_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0571_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0571_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0571_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 595,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn right and move forward, will I get closer to the school bag and TV cabinet?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0595_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0595_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0595_img_3.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0595_img_4.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 606,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 90 degrees to the right, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Bed and red blanket",
+      "B. Door",
+      "C. Bedside table"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0606_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0606_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0606_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 607,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 90 degrees to the right, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Blue bin and black bag",
+      "B. Monitors on desk",
+      "C. Black sofa and window"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0607_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0607_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0607_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 609,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 90 degrees to the left, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Study table and black chair",
+      "B. Window",
+      "C. Bed"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0609_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0609_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0609_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 610,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 90 degrees to the left, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Monitors on desk",
+      "B. Blue bin and black bag",
+      "C. Black sofa and window"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0610_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0610_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0610_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 618,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. window and brown cabinet",
+      "B. several pictures",
+      "C. green cabinet"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0618_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0618_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0618_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 620,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Two chairs",
+      "B. Door",
+      "C. Chair and white board"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0620_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0620_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0620_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 623,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Door",
+      "B. Window",
+      "C. Wardrobes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0623_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0623_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0623_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 624,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 90 degrees to the right, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Grey-green decorative wall",
+      "B. Window",
+      "C. Dressing table"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0624_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0624_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0624_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 630,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 180 degrees around, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Dressing table",
+      "B. Grey-green decorative wall",
+      "C. Window"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0630_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0630_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0630_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 631,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 90 degrees to the right, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. wooden frame mirror",
+      "B. sink",
+      "C. door"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0631_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0631_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0631_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 636,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 90 degrees to the left, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. window and brown cabinet",
+      "B. green cabinet",
+      "C. several pictures"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0636_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0636_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0636_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 638,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Study table and black chair",
+      "B. Bed",
+      "C. Window"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0638_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0638_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0638_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 639,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 90 degrees to the right, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Study table and black chair",
+      "B. Bed",
+      "C. Window"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0639_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0639_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0639_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 645,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Grey-green decorative wall",
+      "B. Window",
+      "C. Dressing table"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0645_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0645_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0645_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 649,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 180 degrees around, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. window and brown cabinet",
+      "B. several pictures",
+      "C. green cabinet"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0649_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0649_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0649_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 650,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 90 degrees to the left, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. wooden frame mirror",
+      "B. door",
+      "C. sink"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0650_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0650_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0650_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 651,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 90 degrees to the left, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Door",
+      "B. Wardrobes",
+      "C. Window"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0651_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0651_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0651_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 652,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. green cabinet",
+      "B. several pictures",
+      "C. window and brown cabinet"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0652_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0652_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0652_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 658,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 90 degrees to the left, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Bicycle",
+      "B. Black shoes shelf",
+      "C. A stack of boxes"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0658_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0658_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0658_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 661,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 90 degrees to the right, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. green cabinet",
+      "B. window and brown cabinet",
+      "C. several pictures"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0661_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0661_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0661_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 670,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 90 degrees to the left, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Door",
+      "B. Window",
+      "C. Wardrobes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0670_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0670_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0670_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 676,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Door",
+      "B. Two chairs",
+      "C. Chair and white board"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0676_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0676_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0676_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 678,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 180 degrees around, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. window and brown cabinet",
+      "B. green cabinet",
+      "C. several pictures"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0678_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0678_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0678_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 680,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Wardrobes",
+      "B. Door",
+      "C. Window"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0680_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0680_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0680_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 681,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Bicycle",
+      "B. Black shoes shelf",
+      "C. A stack of boxes"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0681_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0681_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0681_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 684,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 90 degrees to the right, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. several pictures",
+      "B. green cabinet",
+      "C. window and brown cabinet"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0684_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0684_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0684_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 685,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. several pictures",
+      "B. window and brown cabinet",
+      "C. green cabinet"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0685_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0685_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0685_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 686,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 90 degrees to the left, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Dressing table",
+      "B. Window",
+      "C. Grey-green decorative wall"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0686_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0686_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0686_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 689,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 180 degrees around, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Door",
+      "B. Bedside table",
+      "C. Bed and red blanket"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0689_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0689_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0689_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 692,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 90 degrees to the left, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Blue bin and black bag",
+      "B. Black sofa and window",
+      "C. Monitors on desk"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0692_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0692_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0692_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 699,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. door",
+      "B. sink",
+      "C. wooden frame mirror"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0699_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0699_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0699_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 709,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 90 degrees to the right, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. several pictures",
+      "B. green cabinet",
+      "C. window and brown cabinet"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0709_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0709_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0709_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 714,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. wooden frame mirror",
+      "B. sink",
+      "C. door"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0714_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0714_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0714_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 716,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 90 degrees to the right, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Door",
+      "B. Bedside table",
+      "C. Bed and red blanket"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0716_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0716_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0716_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 719,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Monitors on desk",
+      "B. Blue bin and black bag",
+      "C. Black sofa and window"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0719_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0719_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0719_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 722,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 90 degrees to the right, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Two chairs",
+      "B. Door",
+      "C. Chair and white board"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0722_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0722_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0722_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 726,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 90 degrees to the right, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Grey-green decorative wall",
+      "B. Dressing table",
+      "C. Window"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0726_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0726_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0726_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 736,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 90 degrees to the left, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. wooden frame mirror",
+      "B. sink",
+      "C. door"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0736_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0736_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0736_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 750,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 90 degrees to the right, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. A stack of boxes",
+      "B. Bicycle",
+      "C. Black shoes shelf"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0750_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0750_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0750_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 751,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 90 degrees to the left, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Window",
+      "B. Grey-green decorative wall",
+      "C. Dressing table"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0751_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0751_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0751_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 755,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Monitors on desk",
+      "B. Black sofa and window",
+      "C. Blue bin and black bag"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0755_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0755_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0755_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 761,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, what is to my left?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Black shoes shelf",
+      "B. A stack of boxes",
+      "C. Bicycle"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0761_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0761_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0761_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 763,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Two chairs",
+      "B. Door",
+      "C. Chair and white board"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0763_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0763_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0763_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 769,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Bed",
+      "B. Study table and black chair",
+      "C. Window"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0769_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0769_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0769_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 770,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 180 degrees around, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Door",
+      "B. Two chairs",
+      "C. Chair and white board"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0770_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0770_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0770_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 783,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 2, then I turn 90 degrees to the right, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Bed and red blanket",
+      "B. Door",
+      "C. Bedside table"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0783_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0783_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0783_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 790,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. A stack of boxes",
+      "B. Bicycle",
+      "C. Black shoes shelf"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0790_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0790_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0790_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 792,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Black sofa and window",
+      "B. Blue bin and black bag",
+      "C. Monitors on desk"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0792_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0792_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0792_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 794,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 1, what is to my right?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Door",
+      "B. Bedside table",
+      "C. Bed and red blanket"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0794_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0794_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0794_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 796,
+    "problem": "If I am standing at the same spot and facing the same direction as shown in image 3, then I turn 180 degrees around, what is to my behind?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. several pictures",
+      "B. window and brown cabinet",
+      "C. green cabinet"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0796_img_1.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0796_img_2.jpg",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0796_img_3.jpg"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 801,
+    "problem": "From the viewpoint presented in image 2, is there a large blue recycling bin behind the small blue recycling bin?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0801_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0801_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0801_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 803,
+    "problem": "From the viewpoint presented in image 2, is there a wicker chair behind the round table?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0803_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0803_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0803_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 810,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly left",
+      "B. Diagonally forward and left",
+      "C. Diagonally forward and right",
+      "D. Directly right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0810_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0810_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 829,
+    "problem": "From the viewpoint presented in image 2, is there a  white counter behind the blue trash can?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0829_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0829_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0829_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 833,
+    "problem": "From the viewpoint presented in image 1, what is behind the bronze statue of woman ?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Bench",
+      "B. Bronze statue of man"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0833_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0833_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0833_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 839,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and left",
+      "B. Directly right",
+      "C. Directly left",
+      "D. Diagonally forward and right"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0839_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0839_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 844,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and left",
+      "B. Diagonally forward and right",
+      "C. Directly right",
+      "D. Directly left"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0844_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0844_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 852,
+    "problem": "From the viewpoint presented in image 2, is there a two black chairs behind the table?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0852_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0852_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0852_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 853,
+    "problem": "From the viewpoint presented in image 2, is there a black-grey chair behind the white table?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0853_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0853_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0853_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 854,
+    "problem": "From the viewpoint presented in image 2, is there a monitor behind the telephone?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0854_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0854_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0854_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 856,
+    "problem": "From the viewpoint presented in image 3, what is behind the blue bench ?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Orange seats",
+      "B. Blue bench",
+      "C. Pressure tank"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0856_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0856_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0856_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 859,
+    "problem": "From the viewpoint presented in image 1, what is behind the blue bench?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Blue bench",
+      "B. Orange seats",
+      "C. Pressure tank"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0859_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0859_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0859_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 860,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly left",
+      "B. Diagonally forward and right",
+      "C. Directly right",
+      "D. Diagonally forward and left"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0860_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0860_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 866,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly right",
+      "B. Diagonally forward and right",
+      "C. Directly left",
+      "D. Diagonally forward and left"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0866_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0866_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 875,
+    "problem": "From the viewpoint presented in image 2, what is the nearest object behind the black office chair?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Dark-green office chair",
+      "B. White round table",
+      "C. TV",
+      "D. Sofa"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0875_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0875_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0875_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 876,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly left",
+      "B. Directly right",
+      "C. Diagonally forward and right",
+      "D. Diagonally forward and left"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0876_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0876_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 901,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and left",
+      "B. Directly left",
+      "C. Directly right",
+      "D. Diagonally forward and right"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0901_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0901_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 905,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and left",
+      "B. Diagonally forward and right",
+      "C. Directly right",
+      "D. Directly left"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0905_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0905_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 908,
+    "problem": "From the viewpoint presented in image 1, what is the nearest object behind the green trash can?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Sign board",
+      "B. Gray trash can",
+      "C. Wall",
+      "D. Blue trash can"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0908_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0908_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0908_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 909,
+    "problem": "From the viewpoint presented in image 2, is there a wooden chair behind the mannequin with white dress?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No."
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0909_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0909_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0909_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 911,
+    "problem": "From the viewpoint presented in image 1, what is the nearest object behind the hoover?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Black bin",
+      "B. Office printer",
+      "C. Beige recycling bin",
+      "D. Blue bin"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0911_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0911_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0911_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 915,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and left",
+      "B. Diagonally forward and right",
+      "C. Directly left",
+      "D. Directly right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0915_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0915_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 917,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly right",
+      "B. Diagonally forward and left",
+      "C. Diagonally forward and right",
+      "D. Directly left"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0917_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0917_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 920,
+    "problem": "From the viewpoint presented in image 3, is there a table behind the two black chairs?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No."
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0920_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0920_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0920_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 921,
+    "problem": "From the viewpoint presented in image 2, is there a white table behind the black cabinet?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0921_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0921_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0921_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 923,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly left",
+      "B. Diagonally forward and right",
+      "C. Directly right",
+      "D. Diagonally forward and left"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0923_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0923_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 924,
+    "problem": "From the viewpoint presented in image 1, is there a white cabinet behind the empty black office chair?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0924_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0924_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0924_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 926,
+    "problem": "From the viewpoint presented in image 3, is there a red court dress behind the brown plaid dress?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0926_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0926_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0926_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 928,
+    "problem": "From the viewpoint presented in image 3, is there a two black chairs behind the table?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No."
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0928_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0928_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0928_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 929,
+    "problem": "From the viewpoint presented in image 2, is there a small blue recycling bin behind the large blue recycling bin?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No."
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0929_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0929_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0929_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 934,
+    "problem": "From the viewpoint presented in image 1, is there a lectern behind the black chair?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0934_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0934_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0934_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 938,
+    "problem": "From the viewpoint presented in image 1, is there a black chair behind the black coiled cables?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No."
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0938_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0938_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0938_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 945,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and right",
+      "B. Diagonally forward and left",
+      "C. Directly left",
+      "D. Directly right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0945_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0945_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 974,
+    "problem": "From the viewpoint presented in image 3, is there a grey storage box behind the chair?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0974_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0974_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0974_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 982,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and right",
+      "B. Directly right",
+      "C. Diagonally forward and left",
+      "D. Directly left"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0982_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0982_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 984,
+    "problem": "From the viewpoint presented in image 3, what is the nearest object behind the white milk bottle ?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Large mirror",
+      "B. Table",
+      "C. Tissue box",
+      "D. White plastic jar"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0984_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0984_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0984_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 987,
+    "problem": "From the viewpoint presented in image 3, is there a black chair  behind the cardboard boxes?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0987_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0987_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0987_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 991,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and left",
+      "B. Directly right",
+      "C. Directly left",
+      "D. Diagonally forward and right"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0991_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0991_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 996,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly left",
+      "B. Diagonally forward and right",
+      "C. Diagonally forward and left",
+      "D. Directly right"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0996_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0996_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 997,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and right",
+      "B. Diagonally forward and left",
+      "C. Directly left",
+      "D. Directly right"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0997_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_0997_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1001,
+    "problem": "From the viewpoint presented in image 3, is there a blue trash can behind the gray trash can?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No."
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1001_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1001_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1001_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1004,
+    "problem": "From the viewpoint presented in image 1, what is the nearest object behind the bronze bucket ?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Bronze figure of a woman",
+      "B. Bronze figure of a man"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1004_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1004_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1004_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1007,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Directly right",
+      "B. Directly left",
+      "C. Diagonally forward and left",
+      "D. Diagonally forward and right"
+    ],
+    "process": "",
+    "solution": "<answer>D</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1007_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1007_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1008,
+    "problem": "From the viewpoint presented in image 1, is there a rubbish bin behind the stone archway?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. No.",
+      "B. Yes"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1008_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1008_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1008_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1010,
+    "problem": "From the viewpoint presented in image 1, is there a white cabinet behind the empty black office chair?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No."
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1010_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1010_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1010_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1012,
+    "problem": "From the viewpoint presented in image 2, what is the nearest object behind the gray trash can?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Wall",
+      "B. Black column sanitizer",
+      "C. Blue trash can"
+    ],
+    "process": "",
+    "solution": "<answer>C</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1012_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1012_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1012_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1016,
+    "problem": "From the viewpoint presented in image 2, what is the nearest object behind the orange trash can?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Blue-and-orange square bin",
+      "B. Blue trash can",
+      "C. Brick wall",
+      "D. 'Community' label"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1016_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1016_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1016_img_3.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1021,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and left",
+      "B. Directly right",
+      "C. Directly left",
+      "D. Diagonally forward and right"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1021_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1021_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1027,
+    "problem": "in which direction did I move from the first view to the second view?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Diagonally forward and right",
+      "B. Directly left",
+      "C. Directly right",
+      "D. Diagonally forward and left"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1027_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1027_img_2.png"
+    ],
+    "data_source": ""
+  },
+  {
+    "problem_id": 1038,
+    "problem": "From the viewpoint presented in image 3, is there a stone archway behind the rubbish bin?",
+    "data_type": "image",
+    "problem_type": "multiple choice",
+    "original_question_type": "spatial reasoning",
+    "options": [
+      "A. Yes",
+      "B. No."
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": [
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1038_img_1.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1038_img_2.png",
+      "evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/pid_1038_img_3.png"
+    ],
+    "data_source": ""
+  }
+]

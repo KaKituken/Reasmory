@@ -1,0 +1,67 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments and local env files
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+
+# Local app state
+.gradio/
+demo/
+
+# Logs and runtime dumps
+*.log
+*.out
+*.err
+
+# Experiment tracking
+wandb/
+
+# Generated workspaces and temporary outputs
+workspace/
+tools/workspace/
+temp_frames/
+
+# Evaluation
+evaluation/annotation_assets/*
+# ...but ship the small MindCube image subset the annotations point at
+!evaluation/annotation_assets/mindcube_tiny_no_text_shuffled_seed42/
+eval_results/
+
+# Optional local large artifacts
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.jinja
+chat_template_*
+
+# Local backups and scratch experiments (never ship these)
+*.bak
+*.bak_*
+*.orig
+*_smoke_*.json
+pi3_smoke*.json
+pi3x_smoke*.json
+scratch/
+scratchpad/
+
+# Root-level scratch snippet (not part of the release)
+/test.py
